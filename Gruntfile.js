@@ -12,12 +12,12 @@ module.exports = function(grunt){
             }
         },
         cssmin:{
-            'dist/ui.min.css':'ui.css',
-            'dist/boot_reg_a65c431.min.css':'boot_reg_a65c431.css',
-            'dist/reg_new_09f83a8.min.css':'reg_new_09f83a8.css'
+            'dist/ui.css':'ui.css',
+            'dist/boot_reg_a65c431.css':'boot_reg_a65c431.css',
+            'dist/reg_new_09f83a8.css':'reg_new_09f83a8.css'
         },
         uglify:{
-            'dist/register.min.js':'register.js'
+            'dist/register.js':'register.js'
          }
                 
     });

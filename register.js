@@ -1,7 +1,6 @@
 $(function(){
     var $isAgree = $("#TANGRAM__PSP_4__isAgree"),
         $submit = $('#TANGRAM__PSP_4__submit'),
-        $form = $('#TANGRAM__PSP_4__form'),
         $userName = $('#TANGRAM__PSP_4__userName'),//用户名
         $phone = $('#TANGRAM__PSP_4__phone'),//手机号
         $password = $('#TANGRAM__PSP_4__password'),//密码
